@@ -1,4 +1,4 @@
 {
-  "kill_switch": false,
+  "kill_switch": true,
   "message": "Access blocked – this script has been disabled by the itachi"
 }
